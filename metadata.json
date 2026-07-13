@@ -1,0 +1,6 @@
+{
+  "name": "Muratech CCTV & Security",
+  "description": "Enterprise CCTV sales, installation, maintenance, and remote monitoring solutions in Kenya. Features an e-commerce store, real-time inventory, invoice generator, M-Pesa & WhatsApp checkout, and CMS admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
