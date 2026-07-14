@@ -215,7 +215,7 @@ public class DatabaseSeeder implements CommandLineRunner {
     }
 
     private void seedGalleryItems() {
-        if (galleryRepository.count() == 0) {
+        if (galleryItemRepository.count() == 0) {
             GalleryItemEntity g1 = GalleryItemEntity.builder()
                     .id("g1")
                     .type("image")
